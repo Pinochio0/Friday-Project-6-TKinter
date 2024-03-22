@@ -5,6 +5,7 @@ from tkinter import ttk
 
 root = Tk()
 
+root.title('Calculator')
 root.geometry("350x250+10+10")
 
 textbox = ttk.Entry(root, state=DISABLED)
