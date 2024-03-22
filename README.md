@@ -1,5 +1,9 @@
 # Project Friday Project 6
 
+## Author:
+
+Skyler Emery
+
 ## Description:
 
 This project consists of three files aimed at different functionalities using GUI's:
@@ -27,7 +31,3 @@ This project consists of three files aimed at different functionalities using GU
 
 3. **SignUpGrid.py**:
    - Run the file using Python: `python SignUpGrid.py`
-
-## Author:
-
-This project was created by [Your Name].
