@@ -27,4 +27,7 @@ password_label.grid(column=0, row=2)
 textboxPassword = ttk.Entry(root,text ='Password')
 textboxPassword.grid(row=2,column=1)
 
+signup_button = ttk.Button(root,text='Sign Up')
+signup_button.grid(row=3,column=1)
+
 root.mainloop()
